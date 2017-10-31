@@ -3,4 +3,4 @@
 statistical analysis, natural language processing and machine learning. 
 
 
-2.Three data projects in Python: titanic project, stock market data analysis, and election data analysis. 
+ 
