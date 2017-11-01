@@ -1,2 +1,2 @@
-It contains Python Projects:
+It contains Python Projects:      
 Stock Market Analysis
